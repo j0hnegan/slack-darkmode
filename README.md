@@ -1,2 +1,2 @@
 # slack-darkmode
-Slack Dark Mode for Mohave
+Slack Dark Mode for Mojave
